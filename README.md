@@ -1,3 +1,3 @@
 This is my very first website that i've made 
-Site link: https://lilvexy.github.io/BankApp
+Site link: https://lilvexy.github.io/Sinus
 The Sinus website is made in html and styled in css, i did not know how to use javascript back then. 
